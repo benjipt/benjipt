@@ -16,7 +16,7 @@ Developing a freelance dev agency specializing in web applications. Check out my
 
 ## 🔭 Side Projects
 
-- [Bitcorn](https://github.com/benjipt/bitcorn-app) — My current side project
+- [Bitcorn-app](https://github.com/benjipt/bitcorn-app) & [Bitcorn-chain](https://github.com/benjipt/bitcorn-chain)— My current side project
 
 ## 😄 About Me
 
