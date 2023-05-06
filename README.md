@@ -1,41 +1,24 @@
-### Hi there 👋, I'm Benji, a Full-stack Engineer from Brooklyn, NY
+# 👋 Hi there, I'm Benji — a Full-stack Engineer from Brooklyn, NY
 
-- 👩🏼‍💻 I'm currently looking to join an early-stage startup and build amazing products, see my [portfolio](https://benjithompson.netlify.app).
-- 🔭 Current side-project: [Bitcorn](https://github.com/benjipt/bitcorn-app)
-- 📫 Send me an email at thompson.benji@gmail.com
-- 😄 Pronouns: he/she/they
-- 🎧 Fun fact: I DJ and make music in my spare time: [SoundCloud](https://soundcloud.com/ferian_i)
+🌐 [Portfolio](https://benjithompson.netlify.app) | 📫 [Email](mailto:thompson.benji@gmail.com)
 
-#### Tech Stack
+## 🧠 Tech Stack
 
-Front-End
+I specialize in the following technologies:
 
-- React & Vue
-- Redux
-- Typescript & Javascript
-- GraphQL & REST
-- Theme UI, Tailwind, MUI, Bootstrap
-- Jest, Vitest, React Testing Library, Mocha
-- and of course: HTML & CSS
+- **Frontend**: TypeScript, React
+- **Backend**: Ruby on Rails, PostgreSQL
+- [View my full tech stack](https://github.com/benjipt/fullstack-portfolio/blob/main/README.md)
 
-Back-End
+## 👩🏼‍💻 Career Goals
 
-- Ruby on Rails / Rspec
-- Express.js (Node)
-- PostgreSQL & MongoDB
+Developing a freelance dev agency specializing in web applications. Check out my [portfolio](https://benjithompson.netlify.app) to see what I've been working on. I'm also looking for open-source projects to contribute to.
 
-Infrastructure
+## 🔭 Side Projects
 
-- Google Cloud Platform (Dialogflow)
+- [Bitcorn](https://github.com/benjipt/bitcorn-app) — My current side project
 
-Hosting
+## 😄 About Me
 
-- Heroku
-- Netlify
-
-Dev Tools/Resources
-
-- Git & Github
-- Github Actions, Concourse for CI/CD
-- Jira & Shortcut for Agile Workflow
-- Figma for design collaboration/mocking
+- **Pronouns**: he/she/they
+- **Fun Fact**: I DJ and make music in my spare time. Check out my [SoundCloud](https://soundcloud.com/ferian_i) for some tunes!
