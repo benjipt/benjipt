@@ -6,7 +6,7 @@
 
 I specialize in the following technologies:
 
-- **Frontend**: TypeScript, React
+- **Frontend**: TypeScript, React, React-Native
 - **Backend**: Ruby on Rails, PostgreSQL
 - [View my full tech stack](https://github.com/benjipt/fullstack-portfolio/blob/main/README.md)
 
