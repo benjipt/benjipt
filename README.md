@@ -12,7 +12,7 @@ I specialize in the following technologies:
 
 ## 👩🏼‍💻 Career Goals
 
-Developing a freelance dev agency specializing in web/mobile applications. Check out my [portfolio](https://benjithompson.netlify.app) to see what I've been working on. I'm also looking for open-source projects to contribute to.
+I recently founded a development agency focused on building web and mobile applications for startups called Signal Fluid! (_website coming soon_). Check out my [portfolio](https://benjithompson.netlify.app) to see what I've been working on in my spare time. I'm also looking for open-source projects to contribute to.
 
 ## 🔭 Side Projects
 
@@ -20,4 +20,4 @@ Developing a freelance dev agency specializing in web/mobile applications. Check
 
 ## 😄 About Me
 
-- **Fun Fact**: I DJ and make music in my spare time. Check out my [SoundCloud](https://soundcloud.com/ferian_i) for some tunes!
+- **Fun Fact**: I DJ and make experimental electronic music in my spare time. Check out my [SoundCloud](https://soundcloud.com/ferian_i) if you're feeling adventurous!
