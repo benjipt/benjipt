@@ -1,23 +1,20 @@
 # 👋 Hi there, I'm Benji — a Full-stack Engineer from Brooklyn, NY
 
-🌐 [Portfolio](https://benjithompson.netlify.app) | 📫 [Email](mailto:thompson.benji@gmail.com)
+🌐 [Website](https://signalfluid.io) | 📫 [Email](mailto:benji@signalfluid.io) | 🌐 [LinkedIn](https://linkedin.com/in/benjithompson)
 
 ## 🧠 Tech Stack
 
 I specialize in the following technologies:
 
-- **Frontend**: TypeScript, React, React-Native
-- **Backend**: Ruby on Rails, PostgreSQL
-- [View my full tech stack](https://github.com/benjipt/fullstack-portfolio/blob/main/README.md)
+- **Frontend**: TypeScript, React, NextJS, React-Native
+- **Backend**: Ruby on Rails, NodeJS, PostgreSQL
 
-## 👩🏼‍💻 Career Goals
+However I've worked with many more technologies than the above. You can read more about them here:
 
-I recently founded a development agency focused on building web and mobile applications for startups called Signal Fluid! (_website coming soon_). Check out my [portfolio](https://benjithompson.netlify.app) to see what I've been working on in my spare time. I'm also looking for open-source projects to contribute to.
+- [View my full tech stack](https://benjithompson.netlify.app/about)
 
-## 🔭 Side Projects
+## 👩🏼‍💻 Work
 
-- [Bitcorn-app](https://github.com/benjipt/bitcorn-app) & [Bitcorn-chain](https://github.com/benjipt/bitcorn-chain)— My current side project
+[Signal Fluid](https://signalfluid.io): a boutique web and mobile design & development studio based in New York, NY.
 
-## 😄 About Me
-
-- **Fun Fact**: I DJ and make experimental electronic music in my spare time. Check out my [SoundCloud](https://soundcloud.com/ferian_i) if you're feeling adventurous!
+My legacy portfolio is available [here](https://benjithompson.netlify.app) where you can download my latest resume.
