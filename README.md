@@ -6,9 +6,12 @@
 
 I specialize in the following technologies:
 
-- **Frontend**: TypeScript, React, NextJS, React-Native, Vite, Expo
-- **Backend**: Ruby on Rails, Node/Bun, Hono, PostgreSQL
-- **Infra**: Cloudflare
+- **Frontend**: TypeScript, React, NextJS, React Native, Vite, Expo, Tanstack
+- **Backend**: Ruby on Rails, Node/Bun, Hono
+- **Data**: PostgreSQL, DrizzleOrm
+- **Auth**: Better Auth
+- **Infra**: Cloudflare, Railway, Vercel
+- **AI / Dev Workflow**: Codex, Claude Code
 
 ## 👩🏼‍💻 Work
 
