@@ -6,12 +6,9 @@
 
 I specialize in the following technologies:
 
-- **Frontend**: TypeScript, React, NextJS, React-Native
-- **Backend**: Ruby on Rails, NodeJS, PostgreSQL
-
-However I've worked with many more technologies than the above. You can read more about them here:
-
-- [View my full tech stack](https://benjithompson.netlify.app/about)
+- **Frontend**: TypeScript, React, NextJS, React-Native, Vite, Expo
+- **Backend**: Ruby on Rails, Node/Bun, Hono, PostgreSQL
+- **Infra**: Cloudflare
 
 ## 👩🏼‍💻 Work
 
